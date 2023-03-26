@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ContactsTVController.tableView(_:cellForRowAt:):ContactsTVController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIImage(named: contact.photo)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
