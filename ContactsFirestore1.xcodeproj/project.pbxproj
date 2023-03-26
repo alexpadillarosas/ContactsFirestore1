@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FA0CA15829CFB4DE002B5479 /* ContactTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0CA15729CFB4DE002B5479 /* ContactTVCell.swift */; };
+		FA0CA15A29CFC802002B5479 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA0CA15929CFC801002B5479 /* GoogleService-Info.plist */; };
 		FAF613E029CC0A5D0024DAC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF613DF29CC0A5D0024DAC2 /* AppDelegate.swift */; };
 		FAF613E229CC0A5D0024DAC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF613E129CC0A5D0024DAC2 /* SceneDelegate.swift */; };
 		FAF613E729CC0A5D0024DAC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAF613E529CC0A5D0024DAC2 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		FA0CA15729CFB4DE002B5479 /* ContactTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactTVCell.swift; sourceTree = "<group>"; };
+		FA0CA15929CFC801002B5479 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		FAF613DC29CC0A5D0024DAC2 /* ContactsFirestore1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsFirestore1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF613DF29CC0A5D0024DAC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF613E129CC0A5D0024DAC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 		FAF613DE29CC0A5D0024DAC2 /* ContactsFirestore1 */ = {
 			isa = PBXGroup;
 			children = (
+				FA0CA15929CFC801002B5479 /* GoogleService-Info.plist */,
 				FAF613DF29CC0A5D0024DAC2 /* AppDelegate.swift */,
 				FAF613E129CC0A5D0024DAC2 /* SceneDelegate.swift */,
 				FAF613F429CC0FC90024DAC2 /* Contact.swift */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAF613EC29CC0A5F0024DAC2 /* LaunchScreen.storyboard in Resources */,
+				FA0CA15A29CFC802002B5479 /* GoogleService-Info.plist in Resources */,
 				FAF613E929CC0A5F0024DAC2 /* Assets.xcassets in Resources */,
 				FAF613E729CC0A5D0024DAC2 /* Main.storyboard in Resources */,
 			);
